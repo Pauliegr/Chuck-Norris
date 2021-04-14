@@ -1,0 +1,12 @@
+article{
+    background-color : #f1f3ce;
+    text-align: center;
+    padding: 20px;
+}
+body{
+    background-color: salmon;
+}
+#btn{
+    background-color: salmon;
+    color: white;
+}
